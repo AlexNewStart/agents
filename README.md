@@ -1,3 +1,10 @@
+---
+name: agents-readme
+description: Documentation for the Claude Code agents system. Use when you need information about available agents, their capabilities, or how to create new agents. Examples:\n\n<example>\nContext: Understanding agent capabilities\nuser: "What agents are available for marketing?"\nassistant: "Let me check the agents README to show you all available marketing agents and their specialties."\n<commentary>\nThe README provides comprehensive information about all available agents and their use cases.\n</commentary>\n</example>\n\n<example>\nContext: Creating new agents\nuser: "How do I create a custom agent for our team?"\nassistant: "I'll reference the agents README to show you the agent creation template and requirements."\n<commentary>\nThe README includes detailed instructions for creating and customizing agents.\n</commentary>\n</example>\n\n<example>\nContext: Agent structure questions\nuser: "What frontmatter fields do agents need?"\nassistant: "The agents README explains the required YAML frontmatter structure for agent files."\n<commentary>\nProper agent structure is documented in the README for consistency.\n</commentary>\n</example>
+color: gray
+tools: Read
+---
+
 # Contains Studio AI Agents
 
 A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development. Each agent is an expert in their domain, ready to be invoked when their expertise is needed.

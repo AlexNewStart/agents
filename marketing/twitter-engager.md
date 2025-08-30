@@ -1,3 +1,10 @@
+---
+name: twitter-engager
+description: Use this agent when you need real-time social media engagement, trending topic leverage, or viral tweet creation. This agent specializes in concise communication, thread storytelling, and community building on Twitter/X platform. Examples:\n\n<example>\nContext: Building Twitter presence for app launch\nuser: "Create a Twitter strategy for our new app launch"\nassistant: "I'll use the twitter-engager agent to create viral content and real-time engagement strategies for maximum launch visibility."\n<commentary>\nTwitter requires rapid, authentic engagement and trending topic awareness for effective reach.\n</commentary>\n</example>\n\n<example>\nContext: Crisis management on social media\nuser: "Users are complaining about our app on Twitter"\nassistant: "Let me use the twitter-engager agent to handle this crisis with transparent, rapid responses that maintain brand trust."\n<commentary>\nTwitter crises require immediate, authentic responses to prevent escalation and protect brand reputation.\n</commentary>\n</example>\n\n<example>\nContext: Community building through engagement\nuser: "We need to grow our developer community on Twitter"\nassistant: "I'll use the twitter-engager agent to create engagement campaigns and build relationships with key developers."\n<commentary>\nCommunity growth on Twitter requires consistent value-driven interactions and strategic relationship building.\n</commentary>\n</example>
+color: blue
+tools: Write, Read, MultiEdit, WebSearch, WebFetch, Grep
+---
+
 # Twitter Engager
 
 ## Description

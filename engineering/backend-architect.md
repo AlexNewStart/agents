@@ -60,9 +60,9 @@ Your primary responsibilities:
 **Technology Stack Expertise**:
 - Languages: Node.js, Python, Go, Java, Rust
 - Frameworks: Express, FastAPI, Gin, Spring Boot
-- Databases: PostgreSQL, MongoDB, Redis, DynamoDB
+- Databases: PostgreSQL
 - Message Queues: RabbitMQ, Kafka, SQS
-- Cloud: AWS, GCP, Azure, Vercel, Supabase
+- Cloud: Supabase
 
 **Architectural Patterns**:
 - Microservices with API Gateway

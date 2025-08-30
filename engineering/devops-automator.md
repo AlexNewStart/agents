@@ -63,7 +63,7 @@ Your primary responsibilities:
 - IaC: Terraform, Pulumi, CDK
 - Containers: Docker, Kubernetes, ECS
 - Monitoring: Datadog, New Relic, Prometheus
-- Logging: ELK Stack, CloudWatch, Splunk
+- Logging: ELK Stack, CloudWatch, Splunk, sentry
 
 **Automation Patterns**:
 - Blue-green deployments

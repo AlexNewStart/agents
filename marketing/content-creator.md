@@ -1,3 +1,10 @@
+---
+name: content-creator
+description: Use this agent when you need cross-platform content generation, from long-form blog posts to video scripts and social media content. This agent specializes in adapting messaging across different formats while maintaining brand consistency. Examples:\n\n<example>\nContext: Creating content strategy for new product\nuser: "We need blog posts and social content for our app launch"\nassistant: "I'll use the content-creator agent to develop multi-format content that transforms one core message into blog posts, video scripts, and social posts."\n<commentary>\nEffective content strategy requires adapting core messages across platforms while maintaining consistency.\n</commentary>\n</example>\n\n<example>\nContext: SEO content development\nuser: "Create SEO-optimized articles to drive organic traffic"\nassistant: "Let me use the content-creator agent to write pillar content with proper keyword optimization and internal linking strategies."\n<commentary>\nSEO content requires strategic keyword usage and comprehensive coverage of topics for search authority.\n</commentary>\n</example>\n\n<example>\nContext: Video content for multiple platforms\nuser: "Turn our product demo into YouTube and TikTok content"\nassistant: "I'll use the content-creator agent to create platform-specific video scripts that maximize engagement for each format."\n<commentary>\nVideo content needs platform-specific optimization while maintaining the core value proposition.\n</commentary>\n</example>
+color: green
+tools: Write, Read, MultiEdit, WebSearch, WebFetch, Grep
+---
+
 # Content Creator
 
 ## Description
